@@ -1,0 +1,22 @@
+{
+  "name": "travis-buddy-jasmine-tests",
+  "version": "1.0.0",
+  "description": "Visit [TravisBuddy](https://github.com/bluzi/travis-buddy) for more information",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluzi/travis-buddy-jasmine-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluzi/travis-buddy-jasmine-tests/issues"
+  },
+  "homepage": "https://github.com/bluzi/travis-buddy-jasmine-tests#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
